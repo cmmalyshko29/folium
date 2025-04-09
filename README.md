@@ -11,7 +11,6 @@
     - Make your repository public via Pages
     - customized link is created for your html map
 
-    
-   [GitHub Pages Link](https://cmmalyshko29.github.io/folium/)
+  [GitHub Pages Link](https://cmmalyshko29.github.io/folium/)
   </body>
 
